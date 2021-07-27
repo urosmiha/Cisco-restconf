@@ -1,3 +1,6 @@
+# Ignore the file with sensitive data
+env_lab.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
